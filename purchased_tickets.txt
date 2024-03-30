@@ -1,0 +1,12 @@
+Movie: prestige
+Show Time: 2.50
+Ticket Price: $9.75
+Childticket
+Seat: Row 1, Seat 1
+-------------------------
+Movie: prestige
+Show Time: 2.50
+Ticket Price: $19.5
+Adultticket
+Seat: Row 1, Seat 1
+-------------------------
